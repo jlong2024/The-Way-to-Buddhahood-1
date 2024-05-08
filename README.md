@@ -10,7 +10,7 @@
 ### 教　　材：
 * 印順導師 造頌
 * 昭慧法師、性廣法師 科判製表：《成佛之道》偈頌科判表，法界出版社
-### 佛教弘誓學院: Youtube 播放清單 [成佛之道講座(一)基礎佛法](https://www.youtube.com/playlist?list=PL2VfEBb-UyryY3VUm8r8p74Dm0vH67p5r)
+### [佛教弘誓學院](https://www.hongshi.org.tw/): Youtube 播放清單 [成佛之道講座(一)基礎佛法](https://www.youtube.com/playlist?list=PL2VfEBb-UyryY3VUm8r8p74Dm0vH67p5r)
 * 001堂 宗教之定義 [Youtube](https://youtu.be/3amaK-rxFLw), [PPT](https://github.com/jlong2024/The-Way-to-Buddhahood-1/raw/main/001/%E5%9F%BA%E7%A4%8E%E4%BD%9B%E5%AD%B8001.pptx), [Xmind](https://github.com/jlong2024/The-Way-to-Buddhahood-1/raw/main/001/%E5%9F%BA%E7%A4%8E%E4%BD%9B%E5%AD%B8001.xmind)
 * 002堂 宗教心靈之探索 [Youtube](https://youtu.be/sxy_eNiKc9w), [PPT](https://github.com/jlong2024/The-Way-to-Buddhahood-1/raw/main/002/%E5%9F%BA%E7%A4%8E%E4%BD%9B%E5%AD%B8002.pptx), [Xmind](https://github.com/jlong2024/The-Way-to-Buddhahood-1/raw/main/002/%E5%9F%BA%E7%A4%8E%E4%BD%9B%E5%AD%B8002.xmind)
 * 003堂 宗教之類別(上) [Youtube](https://youtu.be/xSEFcyVpC_g), [PPT](https://github.com/jlong2024/The-Way-to-Buddhahood-1/raw/main/003/%E5%9F%BA%E7%A4%8E%E4%BD%9B%E5%AD%B8003.pptx), [Xmind](https://github.com/jlong2024/The-Way-to-Buddhahood-1/raw/main/003/%E5%9F%BA%E7%A4%8E%E4%BD%9B%E5%AD%B8003.xmind)
